@@ -2,6 +2,14 @@
 
 A web app that makes it easier for users to request presents at Christmas.
 
+## Stack
+
+- React - frontend
+- Node.js + Express - backend
+- PostgreSQL - SQL database
+- Cyclic - app deployment
+- PlanetScale - database deployment
+
 ## Entity-relationship Diagram
 
 ![entity-relationship diagram](https://github.com/Will-Helliwell/wishlist/blob/main/wishlist_ER_diagram.jpg)
