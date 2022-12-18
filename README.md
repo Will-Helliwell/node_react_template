@@ -4,6 +4,7 @@ A web app that makes it easier for users to request presents at Christmas.
 
 ## User Stories
 
+```
 As a user
 So that I can securely access my information
 I want to log in
@@ -47,3 +48,4 @@ I want to be quickly create an account
 As a gifter
 So that nobody buys the same present as me
 I want to be able to mark a present as bought
+```
