@@ -7,8 +7,7 @@ A web app that makes it easier for users to request presents at Christmas.
 - React - frontend
 - Node.js + Express - backend
 - PostgreSQL - SQL database
-- Cyclic - app deployment
-- PlanetScale - database deployment
+- Cyclic - app, CRON and database deployment
 
 ## Entity-relationship Diagram
 
