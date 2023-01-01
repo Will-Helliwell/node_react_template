@@ -11,7 +11,11 @@ Can be used as a base and connected to any database as required.
 
 ## To Start
 
-`npm run start`
+- Ensure Node.js is installed locally and clone this repository.
+- Install dependencies - `npm install`
+- Start backend locally - `npm run start`
+- Start frontend locally - `cd client && npm run start`
+
 
 
 
